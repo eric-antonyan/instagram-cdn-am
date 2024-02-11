@@ -991,3 +991,7 @@ input[type="file"]::-webkit-file-upload-button {
   position: sticky;
   top: 0;
 }
+
+.no__post-text {
+  text-align: center;
+  font-size: 20px;
